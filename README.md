@@ -11,10 +11,12 @@ Skype: **fabulouselephant**
 About me
 -------------------
 
-I am a beginner front-end developer with desire to work hard and efficiently.
+I am a beginner front-end developer with desire to work hard and efficiently. I have no experience but I have some pet projects. 
 
 ###Pet projects:
+ Chrome extension for downloading files from SoundCloud.com with ability to manage downloads
  https://github.com/fabulouselephant/SoundCloudMusicDownloader
+ https://chrome.google.com/webstore/detail/soundcloud-music-download/lpkbfklckeeonkccgniohmlbjekdmjjg
 
 ###Languages:
 
@@ -28,6 +30,7 @@ English: upper intermediate
 - AngularJS
 - Twitter Bootstrap, Foundation
 - Chrome extensions
+- GIT, GitHub
 
 Education
 -------------
