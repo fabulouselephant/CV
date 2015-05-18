@@ -11,8 +11,7 @@ Skype: **fabulouselephant**
 About me
 -------------------
 
-I am a begginer in front-end development but I have an intention to work hard and efficiently. 
-I have a lot things to learn but I enjoy studying. 
+I am a beginner front-end developer with desire to work hard and efficiently.
 
 ###Pet projects:
  https://github.com/fabulouselephant/SoundCloudMusicDownloader
