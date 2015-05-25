@@ -1,5 +1,5 @@
 
-Vertegel Anna
+Anna Vertegel 
 ================
 
 Front-End Software Engineer from Lviv, Ukraine.
