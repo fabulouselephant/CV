@@ -28,7 +28,7 @@ English: upper intermediate
 - JavaScript, JQuery
 - Semantic HTML(5), CSS(3)
 - AngularJS
-- Twitter Bootstrap, Foundation
+- Twitter Bootstrap
 - Chrome extensions
 - GIT, GitHub
 
