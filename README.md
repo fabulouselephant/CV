@@ -29,6 +29,7 @@ English: upper intermediate
 - Semantic HTML(5), CSS(3)
 - AngularJS
 - Twitter Bootstrap
+- Flex box
 - Chrome extensions
 - GIT, GitHub
 
