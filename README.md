@@ -16,7 +16,7 @@ I am a beginner front-end developer with desire to work hard and efficiently. I 
 ###Pet projects:
  Chrome extension for downloading files from SoundCloud.com with ability to manage downloads
  https://github.com/fabulouselephant/SoundCloudMusicDownloader
- https://chrome.google.com/webstore/detail/soundcloud-music-download/lpkbfklckeeonkccgniohmlbjekdmjjg
+ 
  [Link on google webstore] - (https://chrome.google.com/webstore/detail/soundcloud-music-download/lpkbfklckeeonkccgniohmlbjekdmjjg)
 
 ###Languages:
