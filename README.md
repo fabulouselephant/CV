@@ -1,6 +1,5 @@
 
 Anna Vertegel 
-================
 
 Front-End Software Engineer from Lviv, Ukraine.
 
@@ -20,7 +19,7 @@ I am a beginner front-end developer with desire to work hard and efficiently. I 
 
 ###Languages:
 
-English: upper intermediate
+English: intermediate
 
 
 ###Technical skills:
